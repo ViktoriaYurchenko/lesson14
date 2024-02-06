@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(../images/NzQbIb.jpg);
+    
+}
+
+
+.form-container{
+    width: 400px;
+ 
+    
+}
+.form-header, .form-body {
+    background-color: rgba(127, 127, 127, 0.5);
+    padding: 20px;
+}
+.link-forgot{
+    color: rgb(35, 99, 219);
+    text-decoration: none;
+}
